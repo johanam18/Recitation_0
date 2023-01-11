@@ -4,7 +4,7 @@ Please follow the directions below EXACTLY to complete this recitation successfu
 
 1. If you do not have a GitHub account, head over to https://github.com and sign up for an account.  <p/>
 2. If you have not install IntelliJ, go to <a href="https://www.jetbrains.com/idea/download/">IntelliJ Download </a> and download and install the IntelliJ IDE Community Edition.  This is the free version of the IDE.<p/>
-3. Click on <a href="http://github.com">GitHub Repo</a>. Click on the <span style="color:white; background-color:green;">Use this template</span> button.  This will make a copy of your instructor's repo on your account.
+3. Click on <a href="https://github.com/mrasamny/csci-121-Recitation0">Recitation 0 Repo</a>. Click on the <span style="color:white; background-color:green;">Use this template</span> button.  This will make a copy of your instructor's repo on your account.
 4. You should now see your repository with a green Code button on the top right as shown in the image below.<p><image src="./Instructions/xstep4.png" height="300"></p>
 5. You will now need to create a Github authentication token to be used in IntelliJ.  Click on your avatar on the top right of the screen.  You should see a drop-down menu as shown in the image below.   Select  Settings. <p/><image src="./Instructions/xstep5.png" height="300"></p>
 6. On the Settings page, click on the Developer Setting menu item on the left as shown below.<p/><image src="./Instructions/xstep5.png" height="300"></p>
