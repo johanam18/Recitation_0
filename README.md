@@ -27,7 +27,7 @@ Please follow the directions below EXACTLY to complete this recitation successfu
 23. Now press the green play button and notice that the test will fail.<p/><image src="./Instructions/xstep23.png" height="350"></p>
 24. Open the Recitation0.java file under src/main/java.  Add "Hello World!" so that the following line of code reads ```System.out.println("Hello World");``` and then run the test again by clicking on the green play button.  You should now see that the test succeeds!
 25. You now need to commit the changes you made and push the changes to your repository on Github. Select the Commit tab as  shown in the image below. <p/><image src="./Instructions/xstep25.png" height="350"></p>
-26. Select all the files that have changed and type a message in the text box as shown in the image. The message should summarize the work done then, and click the commit and push button.<p/><image src="./xstep27.png" height="400"></p>
+26. Select all the files that have changed and type a message in the text box as shown in the image. The message should summarize the work done then, and click the commit and push button.<p/><image src="./Instructions/xstep27.png" height="400"></p>
 27. Click the push button in the next window to complete the submission.<p/><image src="./Instructions/xstep27.png" height="300"></p>
 
 ### Congratulations!  You now have completed your first Java assignment!
