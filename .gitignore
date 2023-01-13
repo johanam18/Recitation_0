@@ -4,7 +4,7 @@
 /.idea/
 /.git/
 /gradle/
-/src/main/java/Solution*
+/solution/
 settings.gradle
 gradle*
 .DS_Store

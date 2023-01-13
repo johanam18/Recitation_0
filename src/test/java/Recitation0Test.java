@@ -1,5 +1,6 @@
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.util.regex.Pattern;
@@ -19,6 +20,7 @@ class Recitation0Test extends OutputTest {
     }
 
     @Test
+	@DisplayName("[1] test testMain")
     void testMain() {
         Recitation0.main(new String[]{});
         String expected = "Hello World!";
