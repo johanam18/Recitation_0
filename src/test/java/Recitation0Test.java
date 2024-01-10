@@ -20,7 +20,7 @@ class Recitation0Test extends OutputTest {
     }
 
     @Test
-	@DisplayName("[1] test testMain")
+    @DisplayName("[1] test main")
     void testMain() {
         Recitation0.main(new String[]{});
         String expected = "Hello World!";
